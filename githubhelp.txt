@@ -1,0 +1,5 @@
+To get a head start for github
+
+http://rogerdudler.github.io/git-guide/
+
+https://try.github.io/
