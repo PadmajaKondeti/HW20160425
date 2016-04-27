@@ -1,0 +1,48 @@
+From the Terminal/Console and using only the command line, create the following:
+A new folder with the name of first_day_stuff
+A new HTML file with the name of first_day.html
+Open the current folder containing the new HTML file.
+
+BONUS:
+
+Create multiple directories/folders with the names one_folder and second_folder in one command.
+Create multiple files with the names one.html and two.html in one command in the first_day_stuff directory.
+
+DOCTYPE declaration
+Head tag with a title tag
+H1 tag with a title of your choice
+Embed an image
+Create the following three links on your page:
+One link that is target="_blank" so that it opens a new tab when clicked on.
+Make the second link bold.
+Make the third link a placeholder so it goes nowhere.
+HINT: You should be looking up at the screen pretty often :P
+
+Bonus:
+
+Create an ordered list of steps to make a sandwich.
+Create an unordered list of 5 bands/musicians you like.
+Create a table with 2 columns (animal class, animal name) and have 4 rows of animals
+Use an alternate way of separating links without line breaks.
+Embed a Youtube video of your favorite band/musician.
+-------------------
+Quick setup — if you’ve done this kind of thing before
+ Set up in Desktop	or	
+ HTTPS
+ SSH
+
+git@github.com:PadmajaKondeti/HW20160425.git
+
+We recommend every repository include a README, LICENSE, and .gitignore.
+…or create a new repository on the command line
+
+echo "# HW20160425" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:PadmajaKondeti/HW20160425.git
+git push -u origin master
+…or push an existing repository from the command line
+
+git remote add origin git@github.com:PadmajaKondeti/HW20160425.git
+git push -u origin master
