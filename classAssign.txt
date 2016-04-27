@@ -25,3 +25,24 @@ Create an unordered list of 5 bands/musicians you like.
 Create a table with 2 columns (animal class, animal name) and have 4 rows of animals
 Use an alternate way of separating links without line breaks.
 Embed a Youtube video of your favorite band/musician.
+-------------------
+Quick setup — if you’ve done this kind of thing before
+ Set up in Desktop	or	
+ HTTPS
+ SSH
+
+git@github.com:PadmajaKondeti/HW20160425.git
+
+We recommend every repository include a README, LICENSE, and .gitignore.
+…or create a new repository on the command line
+
+echo "# HW20160425" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:PadmajaKondeti/HW20160425.git
+git push -u origin master
+…or push an existing repository from the command line
+
+git remote add origin git@github.com:PadmajaKondeti/HW20160425.git
+git push -u origin master
